@@ -1,0 +1,4 @@
+*** Let's setup cplors for the projects from figma file
+## let's use the colors 
+
+#step-2: setup fonts
