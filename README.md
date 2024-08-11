@@ -4,7 +4,9 @@ Our **GemPermit** prototype is a **web-based application** demonstrating the **c
 
 Visit: [Final Product Link](https://hack4change-dun.vercel.app/)
 
-Key features of the prototype include:
+
+# Key features of the prototype include
+
  **• User Registration:** A simple sign-up process for new users.
  
  **• AI-powered Chatbot:** Guides users through the registration process, answering questions and providing assistance.
